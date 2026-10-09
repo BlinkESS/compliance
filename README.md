@@ -7,6 +7,7 @@ A static site with a privacy policy and terms of use, meant to be published with
 - `/` — home
 - `/privacy.html` — privacy policy
 - `/terms.html` — terms of use
+- `/deletion.html` — data deletion instructions
 
 The company name **Your Company** and the address **contact@example.com** are placeholders. Replace them before you publish.
 
